@@ -33,11 +33,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0067-add-binary](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
