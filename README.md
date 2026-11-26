@@ -37,4 +37,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
