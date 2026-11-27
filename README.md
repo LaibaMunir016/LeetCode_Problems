@@ -34,6 +34,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +57,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/LaibaMunir016/LeetCode_Problems/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
